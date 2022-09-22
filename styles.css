@@ -1,0 +1,40 @@
+.todo{
+    display: flex;
+}
+
+.logo{
+    position: absolute;
+    margin-top: 75px;
+}
+.texto{
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    margin-left: 250px;
+}
+
+.boton{
+    width: 225px;
+    height: 50px;
+}
+.formulario{
+    border: none;
+}
+.lista{
+    display: flex;
+    align-items: flex-start;
+}
+
+.enviar{
+    display:flex;
+}
+.formulario2{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+
+    border: none;
+}
+.condi{
+    padding-left: 10px;
+}
